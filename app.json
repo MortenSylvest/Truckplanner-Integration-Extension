@@ -1,0 +1,29 @@
+{
+  "id": "bd6e5b5f-f0f0-4471-9f74-dfd543ae4ae1",
+  "name": "TP Integration",
+  "publisher": "ERPGruppen",
+  "version": "15.0.0.27",
+  "brief": "",
+  "description": "Truckplanner Integration Extension",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://www.erpgruppen.dk/",
+  "logo": "LOGO/ERPgruppen-logo_ext.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 57600,
+      "to": 57699
+    }
+  ], 
+  "showMyCode": false,
+  "runtime": "3.0",
+  "features": ["TranslationFile"],
+  "target": "Extension"
+}
+
+ 
